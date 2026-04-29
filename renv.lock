@@ -85,12 +85,6 @@
 "Repository": "CRAN",
 "Hash": ""
 },
-"phyloseq": {
-"Package": "phyloseq",
-"Source": "Repository",
-"Repository": "Bioconductor",
-"Hash": ""
-}
 },
 "LockfileVersion": 1
 }
