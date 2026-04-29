@@ -1,0 +1,109 @@
+{
+"R": {
+"Version": "4.3.0",
+"Repositories": [
+{
+"Name": "CRAN",
+"URL": "https://cloud.r-project.org"
+},
+{
+"Name": "Bioconductor",
+"URL": "https://bioconductor.org/packages/3.17/bioc"
+}
+]
+},
+"Packages": {
+"agricolae": {
+"Package": "agricolae",
+"Version": "1.3-5",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"BiocManager": {
+"Package": "BiocManager",
+"Version": "1.30.20",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"cowplot": {
+"Package": "cowplot",
+"Version": "1.1.1",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"data.table": {
+"Package": "data.table",
+"Version": "1.14.8",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"dplyr": {
+"Package": "dplyr",
+"Version": "1.1.2",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"ggpubr": {
+"Package": "ggpubr",
+"Version": "0.6.1",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"gridExtra": {
+"Package": "gridExtra",
+"Version": "2.3",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"reshape2": {
+"Package": "reshape2",
+"Version": "1.4.4",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"rmdformats": {
+"Package": "rmdformats",
+"Version": "1.2.4",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"scales": {
+"Package": "scales",
+"Version": "1.2.1",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"tidyverse": {
+"Package": "tidyverse",
+"Version": "2.0.0",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"vegan": {
+"Package": "vegan",
+"Version": "2.6-4",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"phyloseq": {
+"Package": "phyloseq",
+"Version": "1.42.0",
+"Source": "Repository",
+"Repository": "Bioconductor",
+"Hash": ""
+}
+},
+"LockfileVersion": 1
+}
