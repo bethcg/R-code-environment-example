@@ -24,17 +24,6 @@
         "tools"
       ],
       "Hash": "6a6047c0359531ca0ab0a42b96a3ada3"
-    },
-    "DBI": {
-      "Package": "DBI",
-      "Version": "1.2.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "methods"
-      ],
-      "Hash": "164809cd72e1d5160b4cb3aa57f510fe"
-    },
-}
+    }
+  }
 }
