@@ -1,6 +1,0 @@
-name: r_env_test
-channels:
- - conda-forge
-dependencies:
- - r-base=4.3.1
- - r-tidyverse
