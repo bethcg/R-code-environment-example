@@ -1,0 +1,90 @@
+{
+"R": {
+"Version": "4.3.1",
+"Repositories": [
+{
+"Name": "CRAN",
+"URL": "https://cloud.r-project.org"
+},
+{
+"Name": "Bioconductor",
+"URL": "https://bioconductor.org/packages/3.17/bioc"
+}
+]
+},
+"Packages": {
+"agricolae": {
+"Package": "agricolae",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"BiocManager": {
+"Package": "BiocManager",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"cowplot": {
+"Package": "cowplot",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"data.table": {
+"Package": "data.table",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"dplyr": {
+"Package": "dplyr",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"ggpubr": {
+"Package": "ggpubr",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"gridExtra": {
+"Package": "gridExtra",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"reshape2": {
+"Package": "reshape2",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"rmdformats": {
+"Package": "rmdformats",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"scales": {
+"Package": "scales",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"tidyverse": {
+"Package": "tidyverse",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+"vegan": {
+"Package": "vegan",
+"Source": "Repository",
+"Repository": "CRAN",
+"Hash": ""
+},
+},
+"LockfileVersion": 1
+}
